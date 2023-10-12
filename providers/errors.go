@@ -1,4 +1,4 @@
-package g4f
+package providers
 
 import "errors"
 

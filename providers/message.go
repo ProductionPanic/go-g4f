@@ -1,4 +1,4 @@
-package g4f
+package providers
 
 type Message struct {
 	Role    string `json:"role"`
